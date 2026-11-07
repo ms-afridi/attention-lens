@@ -1,0 +1,9 @@
+{
+  "questions": [
+    {"id": 1, "type": "mcq", "question": "Who were the two friends in the story?", "options": ["A squirrel and a puppy", "A cat and a rabbit", "A puppy and a parrot", "A squirrel and a monkey"], "answer_index": 0, "segment_t": 1},
+    {"id": 2, "type": "mcq", "question": "Who was very sporty and always won the game?", "options": ["The puppy", "The squirrel", "Both of them", "Neither of them"], "answer_index": 1, "segment_t": 11},
+    {"id": 3, "type": "mcq", "question": "What did the puppy think about itself?", "options": ["That it was the fastest", "That it was of no use", "That it was very clever", "That it was the strongest"], "answer_index": 1, "segment_t": 17},
+    {"id": 4, "type": "mcq", "question": "What happened to the squirrel when it started doing antics in the rain?", "options": ["He won another game", "He climbed a tall tree", "He lost his balance and fell in the rainwater", "He ran away"], "answer_index": 2, "segment_t": 28},
+    {"id": 5, "type": "mcq", "question": "How did the squirrel reach a safe place?", "options": ["He climbed on the puppy's back", "He swam across alone", "He flew on a bird", "He walked on a log"], "answer_index": 0, "segment_t": 47}
+  ]
+}

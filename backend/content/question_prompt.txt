@@ -1,0 +1,28 @@
+You are writing a short quiz for a short lesson video. Use ONLY the story in the transcript below. Do not use outside knowledge.
+
+Write EXACTLY these 5 multiple-choice questions, in this order, with exactly this wording, these options, and these correct answers. Do not change, add, remove, or reorder anything. Each question has 4 options, and exactly one is correct. For segment_t, use the evidence timestamp (in seconds) given for each question.
+
+Question 1: Who were the two friends in the story?
+Options: A squirrel and a puppy / A cat and a rabbit / A puppy and a parrot / A squirrel and a monkey
+Correct answer: A squirrel and a puppy
+Evidence timestamp: 00:01 (segment_t = 1)
+
+Question 2: Who was very sporty and always won the game?
+Options: The puppy / The squirrel / Both of them / Neither of them
+Correct answer: The squirrel
+Evidence timestamp: 00:11 (segment_t = 11)
+
+Question 3: What did the puppy think about itself?
+Options: That it was the fastest / That it was of no use / That it was very clever / That it was the strongest
+Correct answer: That it was of no use
+Evidence timestamp: 00:17 (segment_t = 17)
+
+Question 4: What happened to the squirrel when it started doing antics in the rain?
+Options: He won another game / He climbed a tall tree / He lost his balance and fell in the rainwater / He ran away
+Correct answer: He lost his balance and fell in the rainwater
+Evidence timestamp: 00:28 (segment_t = 28)
+
+Question 5: How did the squirrel reach a safe place?
+Options: He climbed on the puppy's back / He swam across alone / He flew on a bird / He walked on a log
+Correct answer: He climbed on the puppy's back
+Evidence timestamp: 00:47 (segment_t = 47)
